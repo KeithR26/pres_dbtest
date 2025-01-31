@@ -1,0 +1,6 @@
+{
+  "AppSyncApiName": "presdbtest",
+  "DynamoDBBillingMode": "PAY_PER_REQUEST",
+  "DynamoDBEnableServerSideEncryption": false,
+  "AuthModeLastUpdated": "2025-01-28T00:32:22.658Z"
+}
